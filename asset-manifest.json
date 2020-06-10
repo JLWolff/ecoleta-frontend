@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ecoleta-project/static/css/main.d966a017.chunk.css",
-    "main.js": "/ecoleta-project/static/js/main.ed61d84c.chunk.js",
-    "main.js.map": "/ecoleta-project/static/js/main.ed61d84c.chunk.js.map",
-    "runtime-main.js": "/ecoleta-project/static/js/runtime-main.44c78bba.js",
-    "runtime-main.js.map": "/ecoleta-project/static/js/runtime-main.44c78bba.js.map",
-    "static/js/2.047943dd.chunk.js": "/ecoleta-project/static/js/2.047943dd.chunk.js",
-    "static/js/2.047943dd.chunk.js.map": "/ecoleta-project/static/js/2.047943dd.chunk.js.map",
-    "index.html": "/ecoleta-project/index.html",
-    "precache-manifest.f0c93e2c26aa1749bbbd263df79cad21.js": "/ecoleta-project/precache-manifest.f0c93e2c26aa1749bbbd263df79cad21.js",
-    "service-worker.js": "/ecoleta-project/service-worker.js",
-    "static/css/main.d966a017.chunk.css.map": "/ecoleta-project/static/css/main.d966a017.chunk.css.map",
-    "static/js/2.047943dd.chunk.js.LICENSE.txt": "/ecoleta-project/static/js/2.047943dd.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/ecoleta-project/static/media/home-background.fe2283e1.svg",
-    "static/media/logo.svg": "/ecoleta-project/static/media/logo.47c4581a.svg"
+    "main.css": "/ecoleta-frontend/static/css/main.39eee32f.chunk.css",
+    "main.js": "/ecoleta-frontend/static/js/main.ed61d84c.chunk.js",
+    "main.js.map": "/ecoleta-frontend/static/js/main.ed61d84c.chunk.js.map",
+    "runtime-main.js": "/ecoleta-frontend/static/js/runtime-main.4add7727.js",
+    "runtime-main.js.map": "/ecoleta-frontend/static/js/runtime-main.4add7727.js.map",
+    "static/js/2.047943dd.chunk.js": "/ecoleta-frontend/static/js/2.047943dd.chunk.js",
+    "static/js/2.047943dd.chunk.js.map": "/ecoleta-frontend/static/js/2.047943dd.chunk.js.map",
+    "index.html": "/ecoleta-frontend/index.html",
+    "precache-manifest.c5614e9b9508160ac707762fb2dd0dd4.js": "/ecoleta-frontend/precache-manifest.c5614e9b9508160ac707762fb2dd0dd4.js",
+    "service-worker.js": "/ecoleta-frontend/service-worker.js",
+    "static/css/main.39eee32f.chunk.css.map": "/ecoleta-frontend/static/css/main.39eee32f.chunk.css.map",
+    "static/js/2.047943dd.chunk.js.LICENSE.txt": "/ecoleta-frontend/static/js/2.047943dd.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/ecoleta-frontend/static/media/home-background.fe2283e1.svg",
+    "static/media/logo.svg": "/ecoleta-frontend/static/media/logo.47c4581a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44c78bba.js",
+    "static/js/runtime-main.4add7727.js",
     "static/js/2.047943dd.chunk.js",
-    "static/css/main.d966a017.chunk.css",
+    "static/css/main.39eee32f.chunk.css",
     "static/js/main.ed61d84c.chunk.js"
   ]
 }
