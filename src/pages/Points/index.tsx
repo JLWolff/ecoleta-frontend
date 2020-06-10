@@ -183,7 +183,6 @@ const Points = () =>{
                                     <li><h3>{sPoint.name}</h3></li>
                                     <li><h4>Telefone(Whatsapp): </h4>{sPoint.whatsapp}</li>
                                     <li><h4> Email:</h4> {sPoint.email}</li>
-                                    <li><h4> Items coletados:</h4> {}</li>
                                 </ul>
                             </div>
                         </div>     

@@ -171,6 +171,7 @@ const CreatePoint = () =>{
                             name="name"
                             id="name"
                             onChange={handleInputChange}
+                            required
                         />
                     </div>
 
@@ -182,6 +183,7 @@ const CreatePoint = () =>{
                                     name="email"
                                     id="email"
                                     onChange={handleInputChange}
+                                    required
                                 />
                         </div>
 
@@ -192,6 +194,7 @@ const CreatePoint = () =>{
                                     name="whatsapp"
                                     id="whatsapp"
                                     onChange={handleInputChange}
+                                    required
                                 />
                          </div>
                     </div>
