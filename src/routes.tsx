@@ -9,7 +9,7 @@ import Points from './pages/Points';
 const Routes =  () => {
     return(
         <BrowserRouter>
-            <Route  component={Home} path='/' exact />
+            <Route  component={Home} path='/ecoleta-frontend' exact />
             <Route  component={CreatePoint} path='/create-point' />]
             <Route  component={Points} path='/points' />
         </BrowserRouter>

@@ -1,6 +1,6 @@
 {
   "name": "web",
-  "homepage": "https://JLWolff.github.io/ecoleta-project",
+  "homepage": "https://jlwolff.github.io/ecoleta-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
