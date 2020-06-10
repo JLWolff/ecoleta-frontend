@@ -141,7 +141,7 @@ const CreatePoint = () =>{
 
         alert('Ponto de coleta criado!');
 
-        history.push('/')
+        history.push('/ecoleta-frontend')
     }
     return(
         <div id="page-create-point">
