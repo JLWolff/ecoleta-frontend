@@ -148,7 +148,7 @@ const CreatePoint = () =>{
             <header>
                 <img src={logo} alt="logoSVG"/>
 
-                <Link to="/">
+                <Link to="/ecoleta-frontend">
                     <FiArrowLeft />
                     Voltar para home
                 </Link>
