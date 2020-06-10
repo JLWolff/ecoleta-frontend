@@ -1,5 +1,6 @@
 {
   "name": "web",
+  "homepage": "https://projeto-ecoleta.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
